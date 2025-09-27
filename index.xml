@@ -46,7 +46,7 @@
 </description>
         </item>
         <item>
-        <title>Archives</title>
+        <title>Archives | 归档</title>
         <link>https://example.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -54,47 +54,30 @@
         <description></description>
         </item>
         <item>
-        <title>About</title>
-        <link>https://example.com/about/</link>
+        <title>About | 关于</title>
+        <link>https://example.com/about-%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/about/</guid>
-        <description>&lt;p&gt;Written in Go, Hugo is an open source static site generator available under the &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio/hugo/blob/master/LICENSE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Apache License 2.0.&lt;/a&gt; Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&lt;/p&gt;
-&lt;p&gt;Hugo makes use of a variety of open source projects including:&lt;/p&gt;
+        <guid>https://example.com/about-%E5%85%B3%E4%BA%8E/</guid>
+        <description>&lt;p&gt;👋 大家好，欢迎来到我的个人博客！&lt;/p&gt;
+&lt;p&gt;我是一名计算机爱好者，专注于 &lt;strong&gt;社会科学、历史学习、算法研究&lt;/strong&gt; 和 &lt;strong&gt;系统开发&lt;/strong&gt;。平时喜欢研究前沿的 AI 技术，尝试将其应用到生物信息学和复杂系统中。同时，我也热衷于 &lt;strong&gt;C++ 系统编程、网络协议&lt;/strong&gt; 与 &lt;strong&gt;底层原理&lt;/strong&gt; 等项目开发，常常在调试与优化中不断提升自己的编程功底。&lt;/p&gt;
+&lt;p&gt;在博客里，我会分享以下内容：&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/yuin/goldmark&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/yuin/goldmark&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/alecthomas/chroma&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/muesli/smartcrop&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/cobra&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a class=&#34;link&#34; href=&#34;https://github.com/spf13/viper&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;编程笔记&lt;/strong&gt;：算法题解析、C++ 技术细节&lt;/li&gt;
+&lt;li&gt;📚 &lt;strong&gt;读书随笔&lt;/strong&gt;：社科类书籍的读后感与思考&lt;/li&gt;
+&lt;li&gt;⚙ &lt;strong&gt;项目开发&lt;/strong&gt;：远程桌面、分布式系统、音视频处理&lt;/li&gt;
+&lt;li&gt;✍ &lt;strong&gt;生活随笔&lt;/strong&gt;：学习感悟与日常记录&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.&lt;/p&gt;
-&lt;p&gt;Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.&lt;/p&gt;
-&lt;p&gt;Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.&lt;/p&gt;
-&lt;p&gt;Learn more and contribute on &lt;a class=&#34;link&#34; href=&#34;https://github.com/gohugoio&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;我相信 &lt;strong&gt;“记录即成长”&lt;/strong&gt;，希望通过这个博客，不仅能沉淀自己的学习成果，也能和更多志同道合的朋友交流。&lt;/p&gt;
+&lt;p&gt;如果你对我写的内容感兴趣，欢迎在评论区留言交流 🤝。&lt;/p&gt;
 </description>
         </item>
         <item>
-        <title></title>
-        <link>https://example.com/_index.zh-cn/</link>
+        <title>Links | 链接</title>
+        <link>https://example.com/links-%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/_index.zh-cn/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>Links</title>
-        <link>https://example.com/links/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/links/</guid>
+        <guid>https://example.com/links-%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
 &lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -125,7 +108,7 @@
 </description>
         </item>
         <item>
-        <title>Search</title>
+        <title>Search | 搜索</title>
         <link>https://example.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         

@@ -8,28 +8,44 @@
         <language>en</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>生活</title>
-        <link>https://example.com/categories/%E7%94%9F%E6%B4%BB/</link>
+        <title>Essay | 随笔</title>
+        <link>https://example.com/categories/essay/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
-        <guid>https://example.com/categories/%E7%94%9F%E6%B4%BB/</guid>
-        <description></description>
+        <guid>https://example.com/categories/essay/</guid>
+        <description>&lt;img src="https://example.com/categories/essay/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Essay | 随笔" /&gt;</description>
         </item>
         <item>
-        <title>随笔</title>
-        <link>https://example.com/categories/%E9%9A%8F%E7%AC%94/</link>
+        <title>LIFE | 生活</title>
+        <link>https://example.com/categories/life/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
-        <guid>https://example.com/categories/%E9%9A%8F%E7%AC%94/</guid>
-        <description></description>
+        <guid>https://example.com/categories/life/</guid>
+        <description>&lt;img src="https://example.com/categories/life/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post LIFE | 生活" /&gt;</description>
         </item>
         <item>
-        <title>Test</title>
-        <link>https://example.com/categories/test/</link>
+        <title>Algorithm | 算法</title>
+        <link>https://example.com/categories/algorithm/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>https://example.com/categories/test/</guid>
-        <description>&lt;img src="https://example.com/categories/test/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Test" /&gt;</description>
+        <guid>https://example.com/categories/algorithm/</guid>
+        <description>&lt;img src="https://example.com/categories/algorithm/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Algorithm | 算法" /&gt;</description>
+        </item>
+        <item>
+        <title>Development | 开发</title>
+        <link>https://example.com/categories/development/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/development/</guid>
+        <description>&lt;img src="https://example.com/categories/development/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Development | 开发" /&gt;</description>
+        </item>
+        <item>
+        <title>Social Science History | 社科历史</title>
+        <link>https://example.com/categories/ssh/life/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/categories/ssh/life/</guid>
+        <description>&lt;img src="https://example.com/categories/ssh/life/hutomo-abrianto-l2jk-uxb1BY-unsplash.jpg" alt="Featured image of post Social Science History | 社科历史" /&gt;</description>
         </item>
         
     </channel>

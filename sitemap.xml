@@ -11,7 +11,13 @@
     <loc>https://example.com/categories/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
+    <loc>https://example.com/categories/essay/</loc>
+    <lastmod>2025-09-27T10:58:55+08:00</lastmod>
+  </url><url>
     <loc>https://example.com/tags/hugo/</loc>
+    <lastmod>2025-09-27T10:58:55+08:00</lastmod>
+  </url><url>
+    <loc>https://example.com/categories/life/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
     <loc>https://example.com/post/</loc>
@@ -23,13 +29,7 @@
     <loc>https://example.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>https://example.com/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2025-09-27T10:58:55+08:00</lastmod>
-  </url><url>
     <loc>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2025-09-27T10:58:55+08:00</lastmod>
-  </url><url>
-    <loc>https://example.com/categories/%E9%9A%8F%E7%AC%94/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
     <loc>https://example.com/archives/</loc>
@@ -38,15 +38,17 @@
     <loc>https://example.com/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/about/</loc>
+    <loc>https://example.com/about-%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://example.com/_index.zh-cn/</loc>
+    <loc>https://example.com/categories/algorithm/</loc>
   </url><url>
-    <loc>https://example.com/links/</loc>
+    <loc>https://example.com/categories/development/</loc>
+  </url><url>
+    <loc>https://example.com/links-%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
     <loc>https://example.com/search/</loc>
   </url><url>
-    <loc>https://example.com/categories/test/</loc>
+    <loc>https://example.com/categories/ssh/life/</loc>
   </url>
 </urlset>
