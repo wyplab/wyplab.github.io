@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on Wyp&#39;s Lab</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://example.com/page/</link>
         <description>Recent content in Pages on Wyp&#39;s Lab</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Archives | 归档</title>
-        <link>http://localhost:1313/archives/</link>
+        <link>https://example.com/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/archives/</guid>
+        <guid>https://example.com/archives/</guid>
         <description></description>
         </item>
         <item>
         <title>About | 关于</title>
-        <link>http://localhost:1313/about-%E5%85%B3%E4%BA%8E/</link>
+        <link>https://example.com/about-%E5%85%B3%E4%BA%8E/</link>
         <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/about-%E5%85%B3%E4%BA%8E/</guid>
+        <guid>https://example.com/about-%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;👋 大家好，欢迎来到我的个人博客！&lt;/p&gt;
 &lt;p&gt;我是一名计算机爱好者，专注于 &lt;strong&gt;社会科学、历史学习、算法研究&lt;/strong&gt; 和 &lt;strong&gt;系统开发&lt;/strong&gt;。平时喜欢研究前沿的 AI 技术，尝试将其应用到生物信息学和复杂系统中。同时，我也热衷于 &lt;strong&gt;C++ 系统编程、网络协议&lt;/strong&gt; 与 &lt;strong&gt;底层原理&lt;/strong&gt; 等项目开发，常常在调试与优化中不断提升自己的编程功底。&lt;/p&gt;
 &lt;p&gt;在博客里，我会分享以下内容：&lt;/p&gt;
@@ -36,10 +36,10 @@
         </item>
         <item>
         <title>Links | 链接</title>
-        <link>http://localhost:1313/links-%E9%93%BE%E6%8E%A5/</link>
+        <link>https://example.com/links-%E9%93%BE%E6%8E%A5/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/links-%E9%93%BE%E6%8E%A5/</guid>
+        <guid>https://example.com/links-%E9%93%BE%E6%8E%A5/</guid>
         <description>&lt;!-- To use this feature, add `links` section to frontmatter.
 
 This page&#39;s frontmatter:
@@ -60,10 +60,10 @@ links:
         </item>
         <item>
         <title>Search | 搜索</title>
-        <link>http://localhost:1313/search/</link>
+        <link>https://example.com/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/search/</guid>
+        <guid>https://example.com/search/</guid>
         <description></description>
         </item>
         

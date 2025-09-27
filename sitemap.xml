@@ -2,59 +2,59 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://example.com/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/blog/</loc>
+    <loc>https://example.com/tags/blog/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://example.com/categories/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/essay/</loc>
+    <loc>https://example.com/categories/essay/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/hugo/</loc>
+    <loc>https://example.com/tags/hugo/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/life/</loc>
+    <loc>https://example.com/categories/life/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://example.com/post/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://example.com/tags/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/%E6%B5%8B%E8%AF%95/</loc>
+    <loc>https://example.com/tags/%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</loc>
     <lastmod>2025-09-27T10:58:55+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://example.com/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://example.com/page/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about-%E5%85%B3%E4%BA%8E/</loc>
+    <loc>https://example.com/about-%E5%85%B3%E4%BA%8E/</loc>
     <lastmod>2020-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/algorithm/</loc>
+    <loc>https://example.com/categories/algorithm/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/cpu/</loc>
+    <loc>https://example.com/categories/cpu/</loc>
   </url><url>
-    <loc>http://localhost:1313/links-%E9%93%BE%E6%8E%A5/</loc>
+    <loc>https://example.com/links-%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/memory/</loc>
+    <loc>https://example.com/categories/memory/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/network/</loc>
+    <loc>https://example.com/categories/network/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://example.com/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/ssh/life/</loc>
+    <loc>https://example.com/categories/ssh/life/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/system/</loc>
+    <loc>https://example.com/categories/system/</loc>
   </url>
 </urlset>

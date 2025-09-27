@@ -2,73 +2,73 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on Wyp&#39;s Lab</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://example.com/categories/</link>
         <description>Recent content in Categories on Wyp&#39;s Lab</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Essay | 随笔</title>
-        <link>http://localhost:1313/categories/essay/</link>
+        <link>https://example.com/categories/essay/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/essay/</guid>
+        <guid>https://example.com/categories/essay/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d78f25f3d3b.png" alt="Featured image of post Essay | 随笔" /&gt;</description>
         </item>
         <item>
         <title>LIFE | 生活</title>
-        <link>http://localhost:1313/categories/life/</link>
+        <link>https://example.com/categories/life/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/categories/life/</guid>
+        <guid>https://example.com/categories/life/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d790a8d0668.png" alt="Featured image of post LIFE | 生活" /&gt;</description>
         </item>
         <item>
         <title>Algorithm | 算法</title>
-        <link>http://localhost:1313/categories/algorithm/</link>
+        <link>https://example.com/categories/algorithm/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/algorithm/</guid>
+        <guid>https://example.com/categories/algorithm/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d795faa7f19.png" alt="Featured image of post Algorithm | 算法" /&gt;</description>
         </item>
         <item>
         <title>CPU | 中央处理器</title>
-        <link>http://localhost:1313/categories/cpu/</link>
+        <link>https://example.com/categories/cpu/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/cpu/</guid>
+        <guid>https://example.com/categories/cpu/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d79651e97ec.png" alt="Featured image of post CPU | 中央处理器" /&gt;</description>
         </item>
         <item>
         <title>Memory | 内存</title>
-        <link>http://localhost:1313/categories/memory/</link>
+        <link>https://example.com/categories/memory/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/memory/</guid>
+        <guid>https://example.com/categories/memory/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d796ba43afc.png" alt="Featured image of post Memory | 内存" /&gt;</description>
         </item>
         <item>
         <title>NetWork | 网络</title>
-        <link>http://localhost:1313/categories/network/</link>
+        <link>https://example.com/categories/network/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/network/</guid>
+        <guid>https://example.com/categories/network/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d796dcb1bae.png" alt="Featured image of post NetWork | 网络" /&gt;</description>
         </item>
         <item>
         <title>Social Science History | 社科历史</title>
-        <link>http://localhost:1313/categories/ssh/life/</link>
+        <link>https://example.com/categories/ssh/life/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/ssh/life/</guid>
+        <guid>https://example.com/categories/ssh/life/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d78ea4e09e8.png" alt="Featured image of post Social Science History | 社科历史" /&gt;</description>
         </item>
         <item>
         <title>System | 操作系统</title>
-        <link>http://localhost:1313/categories/system/</link>
+        <link>https://example.com/categories/system/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/categories/system/</guid>
+        <guid>https://example.com/categories/system/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d7974d159aa.png" alt="Featured image of post System | 操作系统" /&gt;</description>
         </item>
         

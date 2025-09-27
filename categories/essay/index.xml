@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Essay | 随笔 on Wyp&#39;s Lab</title>
-        <link>http://localhost:1313/categories/essay/</link>
+        <link>https://example.com/categories/essay/</link>
         <description>Recent content in Essay | 随笔 on Wyp&#39;s Lab</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="http://localhost:1313/categories/essay/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="https://example.com/categories/essay/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>第一篇文章</title>
-        <link>http://localhost:1313/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
+        <link>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
-        <guid>http://localhost:1313/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
+        <guid>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d754ad089a1.png" alt="Featured image of post 第一篇文章" /&gt;&lt;h1 id=&#34;我的第一篇-hugo-博客文章&#34;&gt;我的第一篇 Hugo 博客文章
 &lt;/h1&gt;&lt;p&gt;这是我在 Hugo 中写下的第一篇文章，用来测试主题效果和写作流程。&lt;/p&gt;
 &lt;h2 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？
