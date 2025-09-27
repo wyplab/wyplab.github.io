@@ -45,11 +45,15 @@
   </url><url>
     <loc>https://example.com/categories/cpu/</loc>
   </url><url>
+    <loc>https://example.com/learning-%E5%AD%A6%E4%B9%A0%E5%8E%86%E7%A8%8B/</loc>
+  </url><url>
     <loc>https://example.com/links-%E9%93%BE%E6%8E%A5/</loc>
   </url><url>
     <loc>https://example.com/categories/memory/</loc>
   </url><url>
     <loc>https://example.com/categories/network/</loc>
+  </url><url>
+    <loc>https://example.com/reading/</loc>
   </url><url>
     <loc>https://example.com/search/</loc>
   </url><url>
