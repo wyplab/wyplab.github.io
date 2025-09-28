@@ -135,24 +135,20 @@
 &lt;/style&gt;
 &lt;ul class=&#34;timeline&#34;&gt;
   &lt;li class=&#34;timeline-item&#34;&gt;
+    &lt;h3&gt;2025-09 &lt;span&gt;算法&lt;/span&gt;&lt;/h3&gt;
+    &lt;p&gt;坚持刷AcWing + LeetCode， 每日五题&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li class=&#34;timeline-item&#34;&gt;
     &lt;h3&gt;2025-09 &lt;span&gt;个人博客&lt;/span&gt;&lt;/h3&gt;
     &lt;p&gt;搭建 Hugo 博客，开始记录学习与成长。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li class=&#34;timeline-item&#34;&gt;
-    &lt;h3&gt;2025-06 &lt;span&gt;深度学习&lt;/span&gt;&lt;/h3&gt;
-    &lt;p&gt;改进 gp120 蛋白亲和性预测模型，引入 GATConv 与二级结构特征，R² 提升至 0.3+。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li class=&#34;timeline-item&#34;&gt;
-    &lt;h3&gt;2025-03 &lt;span&gt;系统编程&lt;/span&gt;&lt;/h3&gt;
+    &lt;h3&gt;2025-09 &lt;span&gt;项目开发&lt;/span&gt;&lt;/h3&gt;
     &lt;p&gt;学习远程桌面控制项目，掌握 IOCP 模型与线程池机制。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li class=&#34;timeline-item&#34;&gt;
-    &lt;h3&gt;2024-12 &lt;span&gt;论文研究&lt;/span&gt;&lt;/h3&gt;
-    &lt;p&gt;撰写学术论文初稿，提出多模态对比学习框架 MACL。&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li class=&#34;timeline-item&#34;&gt;
-    &lt;h3&gt;2024-07 &lt;span&gt;算法训练&lt;/span&gt;&lt;/h3&gt;
-    &lt;p&gt;开始系统刷题（AcWing + LeetCode），坚持每日 5 题。&lt;/p&gt;
+    &lt;h3&gt;2025-08 &lt;span&gt;科研工作&lt;/span&gt;&lt;/h3&gt;
+    &lt;p&gt;改进 gp120 蛋白亲和性预测模型，引入 GATConv 与二级结构特征，R² 显著。&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;</description>
         </item>
@@ -186,77 +182,128 @@ links:
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/reading/</guid>
-        <description>&lt;h1 id=&#34;-我的阅读清单示例以后更改&#34;&gt;📚 我的阅读清单(示例，以后更改)
+        <description>&lt;h1 id=&#34;-我的阅读清单&#34;&gt;📚 我的阅读清单
 &lt;/h1&gt;&lt;p&gt;这里分享我在阅读和推荐的书籍，主要分为 &lt;strong&gt;社科历史、计算机、英语学习&lt;/strong&gt; 三类。&lt;br&gt;
 （点击书名可跳转到豆瓣/Goodreads 详情页）&lt;/p&gt;
+&lt;style&gt;
+.book-list {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+  align-items: stretch;  /* 卡片等高 */
+}
+
+.book-card {
+  width: 155px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  background: #fff;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  padding: 10px;
+}
+
+.book-cover {
+  width: 155px;     /* 与裁剪后的宽度保持一致 */
+  height: 220px;    /* 与裁剪后的高度保持一致 */
+  border-radius: 4px;
+  margin-bottom: 10px;
+}
+
+.book-info {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+
+.book-title {
+  font-weight: bold;
+  font-size: 14px;
+  margin: 0 0 4px 0;
+  line-height: 1.4em;
+  max-height: 2.8em;   /* 最多两行 */
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+
+.book-author {
+  font-size: 13px;
+  color: #555;
+  margin: 0;
+}
+
+&lt;/style&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-社科历史&#34;&gt;🌏 社科历史
-&lt;/h2&gt;&lt;div style=&#34;display:flex;gap:20px;flex-wrap:wrap;&#34;&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/1813841/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s2970260.jpg&#34; alt=&#34;枪炮、病菌与钢铁&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;枪炮、病菌与钢铁&lt;/b&gt;&lt;br&gt;&lt;small&gt;贾雷德·戴蒙德&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/26986954/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s29652363.jpg&#34; alt=&#34;大国大城&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;大国大城&lt;/b&gt;&lt;br&gt;&lt;small&gt;陆铭&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/25985021/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s27264181.jpg&#34; alt=&#34;人类简史&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;人类简史&lt;/b&gt;&lt;br&gt;&lt;small&gt;尤瓦尔·赫拉利&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;/h2&gt;&lt;div class=&#34;book-list&#34;&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/1813841/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8b0cd07581.jpg&#34; alt=&#34;枪炮、病菌与钢铁&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;枪炮、病菌与钢铁&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;贾雷德·戴蒙德&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/27106738/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69ed8dc.jpg&#34; alt=&#34;年代四部曲&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;年代四部曲&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;艾瑞克·霍布斯鲍姆&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/27203334/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69dd3c0.jpg&#34; alt=&#34;文明的冲突&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;文明的冲突与世界秩序的重建&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;塞缪尔·亨廷顿&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;-计算机&#34;&gt;💻 计算机
-&lt;/h2&gt;&lt;div style=&#34;display:flex;gap:20px;flex-wrap:wrap;&#34;&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/1148282/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s1112071.jpg&#34; alt=&#34;SICP&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;SICP&lt;/b&gt;&lt;br&gt;&lt;small&gt;Harold Abelson&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/26912767/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s29630879.jpg&#34; alt=&#34;CSAPP&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;深入理解计算机系统&lt;/b&gt;&lt;br&gt;&lt;small&gt;Randal E. Bryant&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/1477390/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s8958650.jpg&#34; alt=&#34;代码大全&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;代码大全&lt;/b&gt;&lt;br&gt;&lt;small&gt;Steve McConnell&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
+&lt;/h2&gt;&lt;div class=&#34;book-list&#34;&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/37015972/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69ed1b0.jpg&#34; alt=&#34;深入理解Linux进程与内存&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;深入理解Linux进程与内存&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;张彦飞&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/26912767/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69e0196.jpg&#34; alt=&#34;CSAPP&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;深入理解计算机系统&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;Randal E. Bryant&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/35922722/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8b313036e8.jpg&#34; alt=&#34;深入理解Linux网络&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;深入理解Linux网络&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;张彦飞&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-英语学习&#34;&gt;🌐 英语学习
-&lt;/h2&gt;&lt;div style=&#34;display:flex;gap:20px;flex-wrap:wrap;&#34;&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/1050918/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s1113237.jpg&#34; alt=&#34;English Grammar in Use&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;English Grammar in Use&lt;/b&gt;&lt;br&gt;&lt;small&gt;Raymond Murphy&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/3026816/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s2973776.jpg&#34; alt=&#34;认知英语语法&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;认知英语语法&lt;/b&gt;&lt;br&gt;&lt;small&gt;王玉梅&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;div style=&#34;width:150px;text-align:center;&#34;&gt;
-  &lt;a href=&#34;https://book.douban.com/subject/26912756/&#34; target=&#34;_blank&#34;&gt;
-    &lt;img src=&#34;https://img1.doubanio.com/view/subject/s/public/s29631529.jpg&#34; alt=&#34;Word Power Made Easy&#34; width=&#34;120&#34;/&gt;
-    &lt;p&gt;&lt;b&gt;Word Power Made Easy&lt;/b&gt;&lt;br&gt;&lt;small&gt;Norman Lewis&lt;/small&gt;&lt;/p&gt;
-  &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-## 📖 当前学习进度
-&lt;table&gt;
+&lt;h2 id=&#34;-当前学习进度&#34;&gt;📖 当前学习进度
+&lt;/h2&gt;&lt;table&gt;
   &lt;thead&gt;
       &lt;tr&gt;
           &lt;th&gt;类别&lt;/th&gt;
@@ -268,33 +315,27 @@ links:
   &lt;tbody&gt;
       &lt;tr&gt;
           &lt;td&gt;社科历史&lt;/td&gt;
-          &lt;td&gt;《大国大城》&lt;/td&gt;
+          &lt;td&gt;《革命的年代》&lt;/td&gt;
           &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;30%&lt;/td&gt;
+          &lt;td&gt;10%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;计算机基础&lt;/td&gt;
-          &lt;td&gt;《CSAPP》&lt;/td&gt;
+          &lt;td&gt;修炼底层内功&lt;/td&gt;
+          &lt;td&gt;《深入理解Linux进程与内存》&lt;/td&gt;
           &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;60%&lt;/td&gt;
+          &lt;td&gt;10%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
-          &lt;td&gt;英语学习&lt;/td&gt;
-          &lt;td&gt;《Word Power Made Easy》&lt;/td&gt;
+          &lt;td&gt;修炼底层内功&lt;/td&gt;
+          &lt;td&gt;《深入理解Linux网络》&lt;/td&gt;
           &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;40%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;编程技能&lt;/td&gt;
-          &lt;td&gt;TypeScript 入门&lt;/td&gt;
-          &lt;td&gt;✅ 已完成&lt;/td&gt;
-          &lt;td&gt;100%&lt;/td&gt;
+          &lt;td&gt;10%&lt;/td&gt;
       &lt;/tr&gt;
       &lt;tr&gt;
           &lt;td&gt;项目实践&lt;/td&gt;
           &lt;td&gt;远程桌面控制程序&lt;/td&gt;
           &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;75%&lt;/td&gt;
+          &lt;td&gt;90%&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;
