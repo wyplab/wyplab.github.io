@@ -145,8 +145,8 @@ links:
         
         <guid>https://example.com/reading/</guid>
         <description>&lt;h1 id=&#34;-我的阅读清单&#34;&gt;📚 我的阅读清单
-&lt;/h1&gt;&lt;p&gt;这里分享我在阅读和推荐的书籍，主要分为 &lt;strong&gt;社科历史、计算机、英语学习&lt;/strong&gt; 三类。&lt;br&gt;
-（点击书名可跳转到豆瓣/Goodreads 详情页）&lt;/p&gt;
+&lt;/h1&gt;&lt;p&gt;这里分享我正在阅读的书籍，主要分为 &lt;strong&gt;社科历史类、计算机科学&lt;/strong&gt; 两类。
+每开始读一本就会把书籍加入到下面的分类里面。 书籍储备库是我认为对我个人有价值的书籍。&lt;/p&gt;
 &lt;style&gt;
 .book-list {
   display: flex;
@@ -202,38 +202,7 @@ links:
 
 &lt;/style&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-社科历史&#34;&gt;🌏 社科历史
-&lt;/h2&gt;&lt;div class=&#34;book-list&#34;&gt;
-  &lt;div class=&#34;book-card&#34;&gt;
-    &lt;a href=&#34;https://book.douban.com/subject/1813841/&#34; target=&#34;_blank&#34;&gt;
-      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8b0cd07581.jpg&#34; alt=&#34;枪炮、病菌与钢铁&#34;/&gt;
-      &lt;div class=&#34;book-info&#34;&gt;
-        &lt;p class=&#34;book-title&#34;&gt;枪炮、病菌与钢铁&lt;/p&gt;
-        &lt;p class=&#34;book-author&#34;&gt;贾雷德·戴蒙德&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;book-card&#34;&gt;
-    &lt;a href=&#34;https://book.douban.com/subject/27106738/&#34; target=&#34;_blank&#34;&gt;
-      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69ed8dc.jpg&#34; alt=&#34;年代四部曲&#34;/&gt;
-      &lt;div class=&#34;book-info&#34;&gt;
-        &lt;p class=&#34;book-title&#34;&gt;年代四部曲&lt;/p&gt;
-        &lt;p class=&#34;book-author&#34;&gt;艾瑞克·霍布斯鲍姆&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-  &lt;div class=&#34;book-card&#34;&gt;
-    &lt;a href=&#34;https://book.douban.com/subject/27203334/&#34; target=&#34;_blank&#34;&gt;
-      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69dd3c0.jpg&#34; alt=&#34;文明的冲突&#34;/&gt;
-      &lt;div class=&#34;book-info&#34;&gt;
-        &lt;p class=&#34;book-title&#34;&gt;文明的冲突与世界秩序的重建&lt;/p&gt;
-        &lt;p class=&#34;book-author&#34;&gt;塞缪尔·亨廷顿&lt;/p&gt;
-      &lt;/div&gt;
-    &lt;/a&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;hr&gt;
-&lt;h2 id=&#34;-计算机&#34;&gt;💻 计算机
+&lt;h2 id=&#34;-计算机科学&#34;&gt;💻 计算机科学
 &lt;/h2&gt;&lt;div class=&#34;book-list&#34;&gt;
   &lt;div class=&#34;book-card&#34;&gt;
     &lt;a href=&#34;https://book.douban.com/subject/37015972/&#34; target=&#34;_blank&#34;&gt;
@@ -244,7 +213,7 @@ links:
       &lt;/div&gt;
     &lt;/a&gt;
   &lt;/div&gt;
-  &lt;div class=&#34;book-card&#34;&gt;
+  &lt;!-- &lt;div class=&#34;book-card&#34;&gt;
     &lt;a href=&#34;https://book.douban.com/subject/26912767/&#34; target=&#34;_blank&#34;&gt;
       &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69e0196.jpg&#34; alt=&#34;CSAPP&#34;/&gt;
       &lt;div class=&#34;book-info&#34;&gt;
@@ -252,7 +221,16 @@ links:
         &lt;p class=&#34;book-author&#34;&gt;Randal E. Bryant&lt;/p&gt;
       &lt;/div&gt;
     &lt;/a&gt;
-  &lt;/div&gt;
+  &lt;/div&gt; --&gt;
+  &lt;!-- &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/26912767/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69e0196.jpg&#34; alt=&#34;CSAPP&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;C++ Primer&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;Randal E. Bryant&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt; --&gt;
   &lt;div class=&#34;book-card&#34;&gt;
     &lt;a href=&#34;https://book.douban.com/subject/35922722/&#34; target=&#34;_blank&#34;&gt;
       &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8b313036e8.jpg&#34; alt=&#34;深入理解Linux网络&#34;/&gt;
@@ -264,43 +242,207 @@ links:
   &lt;/div&gt;
 &lt;/div&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;-当前学习进度&#34;&gt;📖 当前学习进度
-&lt;/h2&gt;&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;类别&lt;/th&gt;
-          &lt;th&gt;内容/目标&lt;/th&gt;
-          &lt;th&gt;状态&lt;/th&gt;
-          &lt;th&gt;进度&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;社科历史&lt;/td&gt;
-          &lt;td&gt;《革命的年代》&lt;/td&gt;
-          &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;10%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;修炼底层内功&lt;/td&gt;
-          &lt;td&gt;《深入理解Linux进程与内存》&lt;/td&gt;
-          &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;10%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;修炼底层内功&lt;/td&gt;
-          &lt;td&gt;《深入理解Linux网络》&lt;/td&gt;
-          &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;10%&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;项目实践&lt;/td&gt;
-          &lt;td&gt;远程桌面控制程序&lt;/td&gt;
-          &lt;td&gt;🚧 进行中&lt;/td&gt;
-          &lt;td&gt;90%&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;h2 id=&#34;-社科历史类&#34;&gt;🌏 社科历史类
+&lt;/h2&gt;&lt;div class=&#34;book-list&#34;&gt;
+  &lt;!-- &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/1813841/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8b0cd07581.jpg&#34; alt=&#34;枪炮、病菌与钢铁&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;枪炮、病菌与钢铁&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;贾雷德·戴蒙德&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt; --&gt;
+  &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/27106738/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69ed8dc.jpg&#34; alt=&#34;年代四部曲&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;年代四部曲&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;艾瑞克·霍布斯鲍姆&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt;
+  &lt;!-- &lt;div class=&#34;book-card&#34;&gt;
+    &lt;a href=&#34;https://book.douban.com/subject/27203334/&#34; target=&#34;_blank&#34;&gt;
+      &lt;img class=&#34;book-cover&#34; src=&#34;https://bu.dusays.com/2025/09/28/68d8af69dd3c0.jpg&#34; alt=&#34;文明的冲突&#34;/&gt;
+      &lt;div class=&#34;book-info&#34;&gt;
+        &lt;p class=&#34;book-title&#34;&gt;文明的冲突与世界秩序的重建&lt;/p&gt;
+        &lt;p class=&#34;book-author&#34;&gt;塞缪尔·亨廷顿&lt;/p&gt;
+      &lt;/div&gt;
+    &lt;/a&gt;
+  &lt;/div&gt; --&gt;
+&lt;/div&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-书籍储备库&#34;&gt;📚 书籍储备库
+&lt;/h2&gt;&lt;style&gt;
+.reservoir {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 20px;
+  margin-top: 30px;
+}
+
+.reservoir-category {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 15px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.reservoir-header {
+  font-size: 18px;
+  margin-bottom: 15px;
+  padding-bottom: 8px;
+  border-bottom: 2px solid #e9ecef;
+  color: #343a40;
+}
+
+.reservoir-list {
+  list-style: none;
+  padding: 0;
+}
+
+.reservoir-item {
+  margin-bottom: 10px;
+  padding: 8px;
+  border-radius: 4px;
+  transition: background 0.2s;
+}
+
+.reservoir-item:hover {
+  background: #e9ecef;
+}
+
+.reservoir-link {
+  display: flex;
+  justify-content: space-between;
+  text-decoration: none;
+  color: #495057;
+}
+
+.reservoir-title {
+  font-weight: 500;
+}
+
+.reservoir-author {
+  color: #868e96;
+  font-size: 0.9em;
+}
+&lt;/style&gt;
+&lt;div class=&#34;reservoir&#34;&gt;
+  &lt;div class=&#34;reservoir-category&#34;&gt;
+    &lt;div class=&#34;reservoir-header&#34;&gt;🌍 社科历史类&lt;/div&gt;
+    &lt;ul class=&#34;reservoir-list&#34;&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/25985021/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;人类简史&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;尤瓦尔·赫拉利&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/26607419/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;论中国&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;亨利·基辛格&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/27203334/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;文明的冲突与世界秩序的重建&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;塞缪尔·亨廷顿&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/35721558/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;美国四百年&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;布·斯里尼瓦桑&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/27106738/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;年代四部曲&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;艾瑞克·霍布斯鲍姆&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/26911121/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;那年夏天：美国1927&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;比尔·布莱森&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/26832725/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;王国与权力 : 震撼世界的《纽约时报》&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;盖伊·特立斯&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/30484725/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;议程&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;埃里克·维亚尔&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/1813841/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;枪炮、病菌与钢铁&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;贾雷德·戴蒙德&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;reservoir-category&#34;&gt;
+    &lt;div class=&#34;reservoir-header&#34;&gt;💻 计算机科学类&lt;/div&gt;
+    &lt;ul class=&#34;reservoir-list&#34;&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/26912767/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;深入理解计算机系统&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt; Randal E. Bryant / David O&#39;Hallaron&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/35922722/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;深入理解Linux网络&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;张彦飞&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/37015972/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;深入理解Linux进程与内存&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;张彦飞&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/20432061/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;算法导论&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;Thomas H.Cormen / Charles E.Leiserson&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/27096665/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;现代操作系统&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;Andrew S. Tanenbaum / Herbert Bos&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/25708312/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;C++ Primer&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;Stanley B. Lippman /  Josée Lajoie / Barbara E. Moo&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/36081529/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;计算机网络：自顶向下方法&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;James F·Kurose / Keith W. Ross&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+      &lt;li class=&#34;reservoir-item&#34;&gt;
+        &lt;a href=&#34;https://book.douban.com/subject/36081529/&#34; class=&#34;reservoir-link&#34; target=&#34;_blank&#34;&gt;
+          &lt;span class=&#34;reservoir-title&#34;&gt;计算机网络：自顶向下方法&lt;/span&gt;
+          &lt;span class=&#34;reservoir-author&#34;&gt;James F·Kurose / Keith W. Ross&lt;/span&gt;
+        &lt;/a&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
 </description>
         </item>
         <item>
