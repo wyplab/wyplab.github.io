@@ -8,20 +8,20 @@
         <language>en</language>
         <copyright>Example Person</copyright>
         <lastBuildDate>Sat, 27 Sep 2025 10:58:55 +0800</lastBuildDate><atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Essay | 随笔</title>
+        <title>Essay</title>
         <link>https://example.com/categories/essay/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
         <guid>https://example.com/categories/essay/</guid>
-        <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d78f25f3d3b.png" alt="Featured image of post Essay | 随笔" /&gt;</description>
+        <description></description>
         </item>
         <item>
-        <title>LIFE | 生活</title>
+        <title>Life</title>
         <link>https://example.com/categories/life/</link>
         <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
         
         <guid>https://example.com/categories/life/</guid>
-        <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d790a8d0668.png" alt="Featured image of post LIFE | 生活" /&gt;</description>
+        <description></description>
         </item>
         <item>
         <title>Algorithm | 算法</title>
@@ -54,14 +54,6 @@
         
         <guid>https://example.com/categories/network/</guid>
         <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d796dcb1bae.png" alt="Featured image of post NetWork | 网络" /&gt;</description>
-        </item>
-        <item>
-        <title>Social Science History | 社科历史</title>
-        <link>https://example.com/categories/ssh/life/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/categories/ssh/life/</guid>
-        <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d78ea4e09e8.png" alt="Featured image of post Social Science History | 社科历史" /&gt;</description>
         </item>
         <item>
         <title>System | 操作系统</title>

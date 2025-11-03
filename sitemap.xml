@@ -57,8 +57,6 @@
   </url><url>
     <loc>https://example.com/search/</loc>
   </url><url>
-    <loc>https://example.com/categories/ssh/life/</loc>
-  </url><url>
     <loc>https://example.com/categories/system/</loc>
   </url>
 </urlset>
