@@ -7,22 +7,14 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Fri, 09 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives | 归档</title>
-        <link>https://example.com/archives/</link>
-        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://example.com/archives/</guid>
-        <description></description>
-        </item>
-        <item>
+        <lastBuildDate>Thu, 09 Oct 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://example.com/page/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>About | 关于</title>
         <link>https://example.com/about-%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <pubDate>Fri, 28 Feb 2025 00:00:00 +0000</pubDate>
         
         <guid>https://example.com/about-%E5%85%B3%E4%BA%8E/</guid>
         <description>&lt;p&gt;👋 大家好，欢迎来到我的个人博客！&lt;/p&gt;
-&lt;p&gt;我是一名计算机爱好者，专注于 &lt;strong&gt;社会科学、历史学习、算法研究&lt;/strong&gt; 和 &lt;strong&gt;系统开发&lt;/strong&gt;。平时喜欢研究前沿的 AI 技术，尝试将其应用到生物信息学和复杂系统中。同时，我也热衷于 &lt;strong&gt;C++ 系统编程、网络协议&lt;/strong&gt; 与 &lt;strong&gt;底层原理&lt;/strong&gt; 等项目开发，常常在调试与优化中不断提升自己的编程功底。&lt;/p&gt;
+&lt;p&gt;我是WangYipeng，一名计算机爱好者，专注于 &lt;strong&gt;算法研究&lt;/strong&gt; 和 &lt;strong&gt;系统开发&lt;/strong&gt;。我热衷于 &lt;strong&gt;C++ 系统编程、网络协议&lt;/strong&gt; 与 &lt;strong&gt;底层原理&lt;/strong&gt; 等项目开发，常常在调试与优化中不断提升自己的编程功底。&lt;/p&gt;
 &lt;p&gt;在博客里，我会分享以下内容：&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;💻 &lt;strong&gt;编程笔记&lt;/strong&gt;：算法题解析、C++ 技术细节&lt;/li&gt;
@@ -33,6 +25,14 @@
 &lt;p&gt;我相信 &lt;strong&gt;“记录即成长”&lt;/strong&gt;，希望通过这个博客，不仅能沉淀自己的学习成果，也能和更多志同道合的朋友交流。&lt;/p&gt;
 &lt;p&gt;如果你对我写的内容感兴趣，欢迎在评论区留言交流 🤝。&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Archives | 归档</title>
+        <link>https://example.com/archives/</link>
+        <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+        
+        <guid>https://example.com/archives/</guid>
+        <description></description>
         </item>
         <item>
         <title>Learning | 学习历程</title>
