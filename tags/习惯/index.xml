@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Posts on Wyp&#39;s Lab</title>
-        <link>https://example.com/post/</link>
-        <description>Recent content in Posts on Wyp&#39;s Lab</description>
+        <title>习惯 on Wyp&#39;s Lab</title>
+        <link>https://example.com/tags/%E4%B9%A0%E6%83%AF/</link>
+        <description>Recent content in 习惯 on Wyp&#39;s Lab</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en</language>
         <copyright>Example Person</copyright>
-        <lastBuildDate>Sun, 16 Nov 2025 16:27:00 +0800</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 16 Nov 2025 16:27:00 +0800</lastBuildDate><atom:link href="https://example.com/tags/%E4%B9%A0%E6%83%AF/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>警醒自己</title>
         <link>https://example.com/p/%E8%AD%A6%E9%86%92%E8%87%AA%E5%B7%B1/</link>
         <pubDate>Sun, 16 Nov 2025 16:27:00 +0800</pubDate>
@@ -102,44 +102,6 @@
 &lt;/ul&gt;
 &lt;p&gt;这是一个长期过程，但只要每天前进 1%，最终一定能完全改变自己。&lt;/p&gt;
 &lt;hr&gt;
-</description>
-        </item>
-        <item>
-        <title>第一篇文章</title>
-        <link>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</link>
-        <pubDate>Sat, 27 Sep 2025 10:58:55 +0800</pubDate>
-        
-        <guid>https://example.com/p/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/</guid>
-        <description>&lt;img src="https://bu.dusays.com/2025/09/27/68d754ad089a1.png" alt="Featured image of post 第一篇文章" /&gt;&lt;h1 id=&#34;我的第一篇-hugo-博客文章&#34;&gt;我的第一篇 Hugo 博客文章
-&lt;/h1&gt;&lt;p&gt;这是我在 Hugo 中写下的第一篇文章，用来测试主题效果和写作流程。&lt;/p&gt;
-&lt;h2 id=&#34;为什么选择-hugo&#34;&gt;为什么选择 Hugo？
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;生成速度快&lt;/li&gt;
-&lt;li&gt;静态文件便于部署&lt;/li&gt;
-&lt;li&gt;支持 Markdown 写作&lt;/li&gt;
-&lt;li&gt;主题生态丰富&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;封面图测试&#34;&gt;封面图测试
-&lt;/h2&gt;&lt;p&gt;下面是我在 front matter 中设置的封面图：&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://bu.dusays.com/2025/09/27/68d754ad089a1.png&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;封面图&#34;
-	
-	
-&gt;&lt;/p&gt;
-&lt;h2 id=&#34;后续计划&#34;&gt;后续计划
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;熟悉 Hugo 的文章管理方式&lt;/li&gt;
-&lt;li&gt;把 Hexo 里的文章迁移过来&lt;/li&gt;
-&lt;li&gt;试试自定义主题、短代码（shortcodes）&lt;/li&gt;
-&lt;/ol&gt;
-&lt;hr&gt;
-&lt;p&gt;写完这篇文章后，我已经基本掌握了 Hugo 的文章写作流程。 🚀
-挺舒服的测试一把我哦iu是否吧阿斯蒂芬静安寺i阿萨&lt;/p&gt;
 </description>
         </item>
         
